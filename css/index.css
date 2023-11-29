@@ -57,6 +57,17 @@ li {
   background-color: #4caf50;
 }
 
+#imgApart {
+  position: relative;
+}
+#imgApart img {
+  position: absolute;
+  top: -20rem;
+  left: 60rem;
+  border-radius: 20px;
+  overflow: hidden;
+}
+
 header {
   margin-bottom: 8rem;
 }
