@@ -38,6 +38,25 @@ li {
   list-style-type: none;
 }
 
+.btnSezione {
+  width: 10rem;
+  height: 4rem;
+  margin: 0.8rem;
+  color: white;
+}
+
+#btn1 {
+  background-color: #0e6cff;
+}
+
+#btn2 {
+  background-color: #ff8700;
+}
+
+#btn3 {
+  background-color: #4caf50;
+}
+
 header {
   margin-bottom: 8rem;
 }
